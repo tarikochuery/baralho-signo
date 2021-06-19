@@ -1,3 +1,6 @@
+
+------------------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ ------------------------------------------------------
+
 # Baralho de Signos
 
 A ideia do projeto é poder praticar um pouco de Front-End utilizando o React.
@@ -30,3 +33,5 @@ Não há necessidade de se utilizar as media queries, o que auxilia no clean cod
 Caso tenha ideia de novas features que possam ser implementadas no baralho, deixe seu comentário abaixo!
 
 Sinta-se livre para explorar o código e conhecer algumas funcionalidades básicas do React!
+
+------------------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ --------------------------------------------------------
