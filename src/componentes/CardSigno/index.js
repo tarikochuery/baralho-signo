@@ -11,7 +11,7 @@ const CardSigno = (props) => (
             </div>
             <div className='card-container-back'>
                 <p>{props.nome}</p>
-                <p>Aqui abaixo temos a descrição do nosso signo</p>
+                {props.children}
             </div>
         </div>
     </div>
