@@ -1,6 +1,5 @@
 
-------------------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ ------------------------------------------------------
-
+-------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ -------------------------------
 # Baralho de Signos
 
 A ideia do projeto é poder praticar um pouco de Front-End utilizando o React.
@@ -13,7 +12,7 @@ Período;
 Imagem ilustrativa;
 Breve descrição.
 
-# Card-signo
+# CardSigno
 Nesta pasta se encontra o código do componente da carta do signo.
 A principal ideia era ter o código para apenas uma carta e então reutilizá-lo, para aproveitar ao máximo o poder do React.
 
@@ -21,7 +20,7 @@ Para as informações do signo, foi utilizado o props, recurso bastante útil pa
 
 O código CSS foi onde houve a estilização para a animação de rotação da carta. De um lado há 3 informações sobre o signo e no verso se encontra a breve descrição.
 
-# Lista_Signos
+# ListaSignos
 Nesta pasta há a lista dos cards.
 
 Os cards puderam ser reaproveitados graças ao setup feito no componente Card_signo. As informações foram passadas em formato de atributo para o componente.
@@ -34,4 +33,4 @@ Caso tenha ideia de novas features que possam ser implementadas no baralho, deix
 
 Sinta-se livre para explorar o código e conhecer algumas funcionalidades básicas do React!
 
-------------------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ --------------------------------------------------------
+-------------------------------------- Você pode acessar o projeto neste link https://baralho-signo.vercel.app/ -------------------------------
