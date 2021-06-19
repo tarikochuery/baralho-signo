@@ -19,6 +19,7 @@
     height: calc(220px*1.2);
     max-width: none;
     max-height: none;
+    animation: rotate(180deg) 4s linear infinite;
 }
 
 p {
