@@ -27,6 +27,10 @@ p {
     margin: 5px;
 }
 
+.data{
+    flex-grow: 1;
+}
+
 img {
     max-width: 100%;
     border-radius: 10px;

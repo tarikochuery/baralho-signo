@@ -5,7 +5,7 @@ const Card_signo = (props) => (
     <div className='card-container'>
         <p>{props.nome}</p>
         <img alt={props.nome} src={props.imagem} />
-        <p>{props.dataInicio} - {props.dataFim}</p>
+        <p className='data'>{props.dataInicio} - {props.dataFim}</p>
     </div>
 )
 
