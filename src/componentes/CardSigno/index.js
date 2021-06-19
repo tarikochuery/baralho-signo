@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const Card_signo = (props) => (
+const CardSigno = (props) => (
     <div className='card-container'>
         <div className='flipper'>
             <div className='card-container-front'>
@@ -17,4 +17,4 @@ const Card_signo = (props) => (
     </div>
 )
 
-export default Card_signo;
+export default CardSigno;

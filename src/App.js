@@ -1,11 +1,11 @@
-import Lista_signos from './componentes/Lista_signos';
+import ListaSignos from './componentes/ListaSignos';
 import './App.css';
 
 
 function App() {
   return (
     <div className="App">
-      <Lista_signos />
+      <ListaSignos />
     </div>
   );
 }
